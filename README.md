@@ -13,59 +13,72 @@
 
 ## Part 1 - Introduction to AI, Machine Learning: the unified framework TEFPA
 
-### 0/"From intelligence & learning to AI & ML. The TEFPA framework.
+0/ From intelligence & learning to AI & ML. The TEFPA framework.
 
-### Introduction to list of final projects"
+Introduction to list of final projects"
 
-### 1/	Predictions: introduction to linear models
+1/ Predictions: introduction to linear models
 
-### 2/	Predictions: introduction to nonlinear models
+2/ Predictions: introduction to nonlinear models
 
 ## Part 2 - Key issues in AI/ML
 
-### 3/ Representations: feature extraction, embedding coordinates, and nonlinear transformations.
+3/ Representations: feature extraction, embedding coordinates, and nonlinear transformations.
 
-### 4/	Evaluation: common metrics and loss functions
+4/ Evaluation: common metrics and loss functions
 
-### 5/	Search: gradient descent and variants
+5/	Search: gradient descent and variants
 
-## Part 3 - More on key issues in AI/ML"	6	More on search: overfitting, underfitting, regularization, and generalization
+## Part 3 - More on key issues in AI/ML	
 
-### 7/	More on representation: CNNs for grid-like data
+6/ More on search: overfitting, underfitting, regularization, and generalization
 
-### 8/	More on representation: RNNs for time-series-like data
+7/ More on representation: CNNs for grid-like data
 
-## Part 4 - Data Engineering"	9	Decision trees & Ensemble methods in practical use.
+8/ More on representation: RNNs for time-series-like data
 
-### 10/	Unsupervised learning: Kmeans clustering
+## Part 4 - Data Engineering"	
 
-### 11/	Data acquisition, cleaning, annotation. 
+9/ Decision trees & Ensemble methods in practical use.
+
+10/ Unsupervised learning: Kmeans clustering
+
+11/ Data acquisition, cleaning, annotation. 
 
 ### Data exploration: visualization, statistics, imbalance, patterns, etc.
 
-### 12/ Midterm exam + Projects open discussion
+12/ Midterm exam + Projects open discussion
 
-## Part 5 - Introduction to Sequential Decision Making"	13	Sequential decision making: classical MDP planning
+## Part 5 - Introduction to Sequential Decision Making"	
 
-### 14/	Sequential decision making: Tabular Q-learning & DQN
+13/ Sequential decision making: classical MDP planning
 
-### 15/	Interactive decision making: Contextual & multi-armed bandits
+14/ Sequential decision making: Tabular Q-learning & DQN
 
-## Part 6 - Introduction to Computer Vision"	16	DeepCNN: AlexNet, VGGNet, ResNet, MobileNet, etc.
+15/Interactive decision making: Contextual & multi-armed bandits
 
-### 17/	Computer vision applications: image classification, segmentation, etc.
+## Part 6 - Introduction to Computer Vision	
+
+16/ DeepCNN: AlexNet, VGGNet, ResNet, MobileNet, etc.
+
+17/ Computer vision applications: image classification, segmentation, etc.
+
 Review	
 
-### 18/	Theory reviews + Final projects checkpoint + implementation guide
+18/ Theory reviews + Final projects checkpoint + implementation guide
 
-## Part 7 - Introduction to NLP"	19	Sequence modeling: LSTM /GRU & language models
+## Part 7 - Introduction to NLP	
+
+19/ Sequence modeling: LSTM /GRU & language models
 
 ### 20/	NLP applications: sentiment classification, language generation, etc.
 
-## Part 8 - Final exam & final project"	21	Final theory Q&A + Final projects checkpoint + Implementation guide
+## Part 8 - Final exam & final project"	
+
+21/ Final theory Q&A + Final projects checkpoint + Implementation guide
 	
-### 22/	Final exam + correction
+22/ Final exam + correction
 
-### Final project tuning + submission for grading"
+Final project tuning + submission for grading
 
-### 23/	Final project presentation and rating
+23/ Final project presentation and rating
