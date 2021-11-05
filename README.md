@@ -15,7 +15,7 @@
 
 0/ From intelligence & learning to AI & ML. The TEFPA framework.
 
-Introduction to list of final projects"
+Introduction to list of final projects
 
 1/ Predictions: introduction to linear models
 
@@ -73,7 +73,7 @@ Review
 
 ### 20/	NLP applications: sentiment classification, language generation, etc.
 
-## Part 8 - Final exam & final project"	
+## Part 8 - Final exam & final project
 
 21/ Final theory Q&A + Final projects checkpoint + Implementation guide
 	
