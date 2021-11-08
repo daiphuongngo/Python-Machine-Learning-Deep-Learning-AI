@@ -25,24 +25,23 @@ Plot Decision Boundary of Neural Network for Spiral dataset
 
 Spiral Scatter Plot for 3 Classes
 
-![Spiral Scatter Plot for 3 Classes](https://user-images.githubusercontent.com/70437668/140826027-5c8508bd-61a3-42d7-a7f4-fd6728b646cc.jpg)
+<img src="https://user-images.githubusercontent.com/70437668/140826027-5c8508bd-61a3-42d7-a7f4-fd6728b646cc.jpg" width=50% height=50%>
 
 Train the Deep Neural Network for Fashion Mnist dataset (epochs = 50)
 
-![Train the Deep Neural Network for Fashion Mnist dataset](https://user-images.githubusercontent.com/70437668/140826057-422a4e25-96c0-4a7d-bc3a-87e385378256.jpg)
+<img src="https://user-images.githubusercontent.com/70437668/140826057-422a4e25-96c0-4a7d-bc3a-87e385378256.jpg" width=50% height=50%>
 
 Train the Neural Network for Spiral dataset
 
-![Train the Neural Network for Spiral dataset](https://user-images.githubusercontent.com/70437668/140826078-5b8e2af9-d3ef-48ec-b00c-8b799d9546ab.jpg)
+<img src="https://user-images.githubusercontent.com/70437668/140826078-5b8e2af9-d3ef-48ec-b00c-8b799d9546ab.jpg" width=50% height=50%>
 
 Visualize Fashion Mnist dataset
 
-![Visualize Fashion Mnist dataset](https://user-images.githubusercontent.com/70437668/140826092-93a04a27-aaf5-4c13-a027-3bb5aecdec60.jpg)
+<img src="https://user-images.githubusercontent.com/70437668/140826092-93a04a27-aaf5-4c13-a027-3bb5aecdec60.jpg" width=50% height=50%>
 
 Evaluate and Inference the visualized Fashion Mnist dataset trained by Deep Neural Network
 
-![Evaluate and Inference the visualized Fashion Mnist dataset trained by Deep Neural Network](https://user-images.githubusercontent.com/70437668/140826176-1069d0b1-1092-43e8-a17d-2420e514089a.jpg)
-
+<img src="https://user-images.githubusercontent.com/70437668/140826176-1069d0b1-1092-43e8-a17d-2420e514089a.jpg" width=50% height=50%>
 
 2/ Predictions: introduction to nonlinear models
 
