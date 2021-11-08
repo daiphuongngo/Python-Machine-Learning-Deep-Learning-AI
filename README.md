@@ -23,7 +23,8 @@ Plot Decision Boundary of Neural Network for Spiral dataset
 
 ![Plot Decision Boundary of Neural Network for Spiral dataset](https://user-images.githubusercontent.com/70437668/140826008-f135452c-3c4f-45aa-94e8-00a7f1ed6607.jpg)
 
-<img src="![Plot Decision Boundary of Neural Network for Spiral dataset](https://user-images.githubusercontent.com/70437668/140826417-105ab79b-1248-4de6-8c6f-369c8c875566.jpg)" width="48">
+![Plot Decision Boundary of Neural Network for Spiral dataset](https://user-images.githubusercontent.com/70437668/140826008-f135452c-3c4f-45aa-94e8-00a7f1ed6607.jpg | width=100)
+
 
 Spiral Scatter Plot for 3 Classes
 
