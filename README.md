@@ -1,4 +1,4 @@
-# AI-Practitioner-in-Python-Machine-Learning-Deep-Learning-AI
+# Python-Machine-Learning-Deep-Learning-AI
 
 ## Language: Python
 
