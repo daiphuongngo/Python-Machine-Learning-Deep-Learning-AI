@@ -98,11 +98,3 @@ Review
 20/ NLP applications: sentiment classification, language generation, etc.
 
 ## Part 8 - Final exam & final project
-
-21/ Final theory Q&A + Final projects checkpoint + Implementation guide
-	
-22/ Final exam + correction
-
-Final project tuning + submission for grading
-
-23/ Final project presentation and rating
